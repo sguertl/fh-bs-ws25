@@ -1,2 +1,2 @@
-# FH BS WS25
+# FH Campus 02 - Betriebssysteme
 Code examples and resources
